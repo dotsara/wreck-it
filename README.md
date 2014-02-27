@@ -2,8 +2,7 @@ I'm gonna wreck it!
 ========
 
 For a long time: when I encountered merge conflicts and non-fast-forward errors with git at work, my SOP was to freak. right. out.
-
-<img src="http://31.media.tumblr.com/8f7dd48d0dc4b3003a0e2b866ccd84f8/tumblr_mk66o4f5Aw1r1thdeo1_500.gif" width="250" border="0" alt="noooo" />
+<br /><img src="http://31.media.tumblr.com/8f7dd48d0dc4b3003a0e2b866ccd84f8/tumblr_mk66o4f5Aw1r1thdeo1_500.gif" width="250" border="0" alt="noooo" />
 
 And in past-me's defense, 99% of the time this had zero impact on anyone else, so my preferred solution of blowing away the branch and starting over worked just fine. Of course, I finally accepted this was kind of a terrible way to behave—or anyway, it wouldn't scale—and decided to teach myself more productive responses to  `branchname|CONFLICT`.
 
