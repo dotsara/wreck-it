@@ -27,6 +27,7 @@ $(document).ready(function() {
 	
 		$(div).css('-webkit-box-shadow', '0px 0px '+blur+'px '+blur+'px '+color);
 		   $(div).css('-moz-box-shadow', '0px 0px '+blur+'px '+blur+'px '+color);
+			 $(div).css('-o-box-shadow', '0px 0px '+blur+'px '+blur+'px '+color);
 	    	    $(div).css('box-shadow', '0px 0px '+blur+'px '+blur+'px '+color);
 		
 		$(div).fadeIn('slow', function() {});
