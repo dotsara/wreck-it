@@ -2,7 +2,7 @@ $(document).ready(function() {
 	// injecting some text: adding a comment. Can we um… merge mercommits?
 	
 	//set number of bokehs
-	var bokehs = 75;
+	var chickens = 75;
 	
 	for (i = 0; i < bokehs; i++) { 	
 
