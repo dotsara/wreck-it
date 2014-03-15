@@ -32,6 +32,7 @@ $(document).ready(function() {
 		$(div).fadeIn('slow', function() {});
 		
 		$('body').append(div);
+		$('body').css('background', 'red');
 		
 	};
 
