@@ -1,5 +1,5 @@
 $(document).ready(function() {
-	// adding a comment. Can we um… merge mercommits?
+	// injecting some text: adding a comment. Can we um… merge mercommits?
 	
 	//set number of bokehs
 	var bokehs = 75;
@@ -32,7 +32,7 @@ $(document).ready(function() {
 		$(div).fadeIn('slow', function() {});
 		
 		$('body').append(div);
-		$('body').css('background', 'red');
+		$('body').css('background', 'blue');
 		
 	};
 
