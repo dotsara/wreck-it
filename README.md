@@ -1,3 +1,6 @@
+*Update 15-July-2016*   
+Still wrecking things in git! :grinning: But now I'm mostly making notes over in [issues](../../issues) as a breadcrumb trail. Feel free to add your own busted-then-fixed situations! :sparkles:
+
 I'm gonna wreck it!
 ========
 
