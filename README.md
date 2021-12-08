@@ -1,3 +1,14 @@
+*December 2021*
+
+## Most useful `git` command I run on the regular
+
+`git reset --soft HEAD~;`   
+It is not uncommon to `commit` (but not `push`) all the files I have staged, then realize either (a) I didn't mean to do that or (b) a co-worker has pushed a change to the PR we're working on and I'm not interested in creating a merge commit 😬. 
+
+So I run the above to walk back the commit, then I run `git restore --staged .` to unstage all those changed files, and _then_ I re-build my commit(s) as needed.
+
+-----
+
 *Update 15-July-2016*   
 Still wrecking things in git! :grinning: But now I'm mostly making notes over in [issues](../../issues) as a breadcrumb trail. Feel free to add your own busted-then-fixed situations! :sparkles:
 
